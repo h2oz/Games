@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: e2466f2265fbb5e49be16780573ee405
+timeCreated: 1448988716
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bckgd fish_0
+    21300002: bckgd fish_1
+    21300004: bckgd fish_2
+    21300006: bckgd fish_3
+    21300008: bckgd fish_4
+    21300010: bckgd fish_5
+    21300012: bckgd fish_6
+    21300014: bckgd fish_7
+    21300016: bckgd fish_8
+    21300018: bckgd fish_9
+    21300020: bckgd fish_10
+    21300022: bckgd fish_11
+    21300024: bckgd fish_12
+    21300026: bckgd fish_13
+    21300028: bckgd fish_14
+    21300030: bckgd fish_15
+    21300032: bckgd fish_16
+    21300034: bckgd fish_17
+    21300036: bckgd fish_18
+    21300038: bckgd fish_19
+    21300040: bckgd fish_20
+    21300042: bckgd fish_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bckgd fish_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 355
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 353
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 353
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 353
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 361
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 106
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 244
+        width: 214
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 244
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 245
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 246
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 128
+        width: 107
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 128
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 129
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 129
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 129
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 11
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 13
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bckgd fish_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 12
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
